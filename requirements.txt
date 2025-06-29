@@ -1,0 +1,7 @@
+gradio
+transformers
+sentence-transformers
+faiss-cpu
+torch
+pymupdf
+scikit-learn
